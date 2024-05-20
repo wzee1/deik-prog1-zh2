@@ -1,0 +1,11 @@
+Bread:
+Category: food
+Price: 644
+Expiry: 2024 5 30
+Is whole? 1
+
+Milk:
+Category: drink
+Price: 300
+Expiry: 2024 5 21
+Fat Percentage: 2
